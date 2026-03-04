@@ -1,5 +1,5 @@
 <h1 align="center">Hey — I'm Shahnoor 👋</h1>
-<h3 align="center">Founder-Engineer • Full-Stack & Cross-Platform Developer • Cloud & Systems Builder</h3>
+<h3 align="center">Founder-Engineer • Full-Stack & Systems Developer • Cloud & Infrastructure Builder</h3>
 
 <p align="center">
   <a href="https://shahnoormujawar.vercel.app" target="_blank">
@@ -12,19 +12,32 @@
 
 ---
 
-I’m a **full-stack & cross-platform developer** from Bangalore, building products at the intersection of:
+I’m a **full-stack & systems developer** from Bangalore, building products at the intersection of:
 
 🚀 engineering  
 🧠 systems design  
 ☁️ cloud & infrastructure  
 📱 real-world user experience  
 
-I love taking ideas from **architecture → implementation → product → real users**.
+I enjoy taking ideas from **architecture → implementation → product → real users**.
 
 - 🔭 Currently building scalable backend systems & developer-centric tools  
 - 🌱 Exploring Go, distributed systems & cloud-native workflows  
 - 🧩 Passionate about DX, reliability & system correctness  
 - 🤝 Always open to collaborating on **deep tech, infra & AI-powered products**
+
+---
+
+# 🧩 Open Source Contributions
+
+### NestJS Core Contribution
+
+Contributed to the core of NestJS by improving dependency injection error messaging.
+
+**Merged PR:**  
+https://github.com/nestjs/nest/pull/16493
+
+NestJS is one of the most widely used frameworks for building scalable Node.js backend systems.
 
 ---
 
@@ -49,7 +62,8 @@ Systems that make engineering **faster, safer & more reliable**
 ### 🟩 Cloud & Architecture
 Designing for **scale, performance & resilience**
 
-- event-driven & queue-based systems
+- event-driven architectures
+- queue-based systems
 - structured logging & observability
 - async workers & background jobs
 
@@ -128,6 +142,14 @@ I keep it updated with:
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shahnoormujawar&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
 ## 💬 Let’s Connect
 
 If you’re building something interesting in:
@@ -154,4 +176,3 @@ If you’re building something interesting in:
     <img src="https://img.shields.io/badge/Support%20via%20PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
   </a>
 </p>
-
