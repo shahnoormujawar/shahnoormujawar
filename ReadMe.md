@@ -1,8 +1,9 @@
 # Shahnoor Mujawar
 
-**Founder-engineer building at the intersection of product, systems, and scale.**
+**Founder-engineer. I ship products — from architecture to real users.**
 
-Full-stack & infrastructure developer from Bangalore. I take ideas from architecture → implementation → shipped product → real users.
+Full-stack & infrastructure developer from Bangalore.  
+I don't just write code. I build systems that scale, tools developers actually want, and products people use.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-shahnoormujawar.vercel.app-000?style=flat-square&logo=vercel&logoColor=white)](https://shahnoormujawar.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahnoor-mujawar-3960052a1/)
@@ -11,18 +12,20 @@ Full-stack & infrastructure developer from Bangalore. I take ideas from architec
 
 ## What I Build
 
-**Product Engineering** — Full-stack SaaS & cross-platform apps. Payments, auth, queues, storage — end-to-end ownership.
+**Product Engineering** — Full-stack SaaS & cross-platform apps. Payments, auth, queues, storage — end-to-end ownership from day one.
 
-**Developer & Infra Tools** — Secure config systems, retry/reliability tooling, automation pipelines. Things that make engineering teams faster.
+**Developer & Infra Tools** — Secure config systems, retry/reliability tooling, automation pipelines. Things that make engineering teams faster and safer.
 
-**Cloud & Architecture** — Event-driven systems, async workers, structured observability, queue-backed workloads designed for scale.
+**Cloud & Architecture** — Event-driven systems, async workers, structured observability, queue-backed workloads built for scale and resilience.
 
 ---
 
 ## Open Source
 
-**NestJS Core** — Improved dependency injection error messaging in the NestJS core.
-[`nestjs/nest #16493`](https://github.com/nestjs/nest/pull/16493) ✅ Merged
+Contributed to **NestJS** — one of the most widely used frameworks for building scalable Node.js backends.  
+Improved core dependency injection error messaging.
+
+→ [nestjs/nest #16493](https://github.com/nestjs/nest/pull/16493) · **Merged ✓**
 
 ---
 
@@ -40,15 +43,8 @@ Cloud       AWS · GCP · Cloudflare
 
 ## Now
 
-- Building scalable backend systems & developer-centric tooling
-- Going deeper on Go, distributed systems & cloud-native patterns
+- Deepening into Go, distributed systems & cloud-native patterns
 - Open to collaborating on **deep tech, infra & AI-powered products**
-
----
-
-## Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahnoormujawar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000)
 
 ---
 
